@@ -1,6 +1,5 @@
 yo. wsg
 
-https://discord.gg/Knsf6HkC2m
 
 
 to run this:
